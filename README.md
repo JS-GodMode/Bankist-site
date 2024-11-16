@@ -41,7 +41,9 @@ The site is live on : https://js-godmode.github.io/Bankist-site/
 
 ## License
 
-This project is under a limited usage license. Please contact the author for more information.
+> This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**. For more details, see the LICENSE file.
+
+**Usage Restrictions**: WhereAmI is available solely for viewing and learning purposes. No commercial use, resale, or teaching distribution is allowed.
 
 ## Author
 
