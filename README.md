@@ -31,7 +31,7 @@ The site is live on : https://js-godmode.github.io/Bankist-site/
 
 1.  Clone the repository:
 
-    `git clone https://github.com/js-godmode/bankist.git`
+    `git clone https://github.com/JS-GodMode/bankist.git`
 
 2.  Navigate to the project folder:
 
